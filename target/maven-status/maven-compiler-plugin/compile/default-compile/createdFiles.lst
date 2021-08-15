@@ -1,0 +1,5 @@
+olx\spy\parser\Main.class
+olx\spy\parser\RealEstateFileCreator.class
+olx\spy\parser\PagesOlx.class
+olx\spy\parser\NotesChecker.class
+olx\spy\parser\OlxParser.class
